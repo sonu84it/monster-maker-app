@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f4f4f4;
+}
+
+#monsterCanvas {
+  border: 1px solid #333;
+  background-color: white;
+  margin-top: 20px;
+}
+
+.controls {
+  margin-top: 10px;
+}
+
+button {
+  padding: 8px 16px;
+  margin: 0 5px;
+  font-size: 16px;
+}
